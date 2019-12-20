@@ -1,0 +1,81 @@
+2019-12-20 17:17:06,526 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:17:06,526 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:17:50,643 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:17:50,643 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:20,361 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:20,361 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:32,398 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:32,398 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:37,948 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:37,948 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:55,739 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:20:55,739 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:21:57,599 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:21:57,599 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:22:11,621 Invaid Tablename attemped
+2019-12-20 17:22:11,636 No Table with this name found. Try again with a vaild tablename
+2019-12-20 17:22:11,636 Got following exception
+Traceback (most recent call last):
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 28, in app
+    create_dump(args.tablename[0],config)
+  File "D:\automash\workspace_python\dataeazePY\app.py", line 40, in create_dump
+    file_utils.create_csv_file(dao.fetch_table_content(tablename), file_utils.generate_filename(tablename))
+  File "D:\automash\workspace_python\dataeazePY\dao\sql_dao.py", line 31, in fetch_table_content
+    raise Exception("No Table with this name found. Try again with a vaild tablename")
+Exception: No Table with this name found. Try again with a vaild tablename
