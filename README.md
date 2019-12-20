@@ -2,7 +2,7 @@ The bundled code will let you create a comma seaparated dump from mysql database
 JAVA
 ----
 - use mvn install to build the java code 
-- using jar with args -tablename <tablename> will let you create the dump.
+- using jar with args ```-tablename <tablename>``` will let you create the dump.
 
 Python
 ----------
